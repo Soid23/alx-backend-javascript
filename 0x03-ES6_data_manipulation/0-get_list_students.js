@@ -1,4 +1,4 @@
-/**
+/*
  * Retrives student data.
  * @author Soid23
  * @returns {{id: Number, firstName: String, location: String}[]}
